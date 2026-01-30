@@ -1,0 +1,15 @@
+n17 n19 n18 n16 n18 n19 n17 
+UQAM5 UQAM2 UQAM5 
+257 m
+n18 n16 n14 n13 n12 n11 n1 n2 n15 n17 n19 n18 
+UQAM2 Kimberly President-Kennedy Jeanne-Mance UQAM4 UQAM5 UQAM2 
+525 m
+n18 n16 n14 n13 n12 n11 n12 n13 n14 n16 n18 
+UQAM2 Kimberly UQAM2 
+393 m
+n14 n6 n7 n8 n9 n10 n11 n12 n13 n14 
+Kimberly Sherbrooke Saint-Urbain President-Kennedy Kimberly 
+616 m
+n14 n6 n7 n8 n9 n10 n11 n12 n13 n14 
+Kimberly Sherbrooke Saint-Urbain President-Kennedy Kimberly 
+616 m
