@@ -1,6 +1,5 @@
-# INF3105 — TP5 : Le Livreur de pizza
+
 ## Description
-Ce projet correspond au **TP5 du cours INF3105 – Structures de données et algorithmes (UQAM)**
 Il consiste à implémenter un programme en **C++** permettant de calculer des **chemins optimau
 pour un livreur de pizza sur une carte représentée sous forme de **graphe orienté**.
 Le programme :
